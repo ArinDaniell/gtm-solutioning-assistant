@@ -1,0 +1,17 @@
+REQUEST FOR PROPOSAL: Enterprise Supply Chain Modernization
+Issued By: GlobalRetail Logistics Inc.
+Date: September 2026
+
+1. Project Overview
+GlobalRetail Logistics is seeking an IT services partner to modernize our legacy supply chain infrastructure. We are experiencing a 15% delay in inventory routing due to manual data entry and fragmented on-premise servers. 
+
+2. Technical Requirements
+The selected vendor must provide a solution that includes:
+- Migration of 50TB of on-premise inventory data to a secure Cloud environment (AWS or Azure).
+- Development of a Machine Learning forecasting model to predict inventory shortages across our 400 retail locations.
+- Implementation of an automated, AI-driven ticketing system for vendor management.
+
+3. Compliance & Constraints
+- All cloud infrastructure and data processing must comply with GDPR and SOC 2 Type II security standards.
+- The project must be completed within a strict 6-month timeline to align with our Q1 fiscal targets.
+- The total vendor budget is capped at $1.5M USD.

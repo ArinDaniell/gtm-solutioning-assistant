@@ -1,0 +1,21 @@
+# Environments
+venv/
+env/
+.env
+
+# API Keys and Secrets
+*.env
+.env.local
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated Output Files (Optional: Prevents your test runs from cluttering the repo)
+competitive_analysis.md
+executive_summary.md
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
