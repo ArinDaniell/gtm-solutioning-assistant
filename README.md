@@ -10,7 +10,7 @@ A dynamic Python-based document processing pipeline that leverages LangChain, Py
 ## 🛠️ Tech Stack
 * **Python**
 * **LangChain**
-* **Google GenAI SDK (Gemini 2.5 Flash)**
+* **Google GenAI SDK (Gemini 3.6 Flash)**
 * **Pydantic**
 * **Python-Dotenv**
 
